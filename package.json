@@ -1,0 +1,27 @@
+{
+  "name": "rainbow-log",
+  "version": "1.0.0",
+  "description": "Creates a colorful console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThorWurtzner/rainbowLog.git"
+  },
+  "keywords": [
+    "console",
+    "rainbows",
+    "rainbow",
+    "color",
+    "colours",
+    "console.log"
+  ],
+  "author": "Thor Würtzner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThorWurtzner/rainbowLog/issues"
+  },
+  "homepage": "https://github.com/ThorWurtzner/rainbowLog#readme"
+}
